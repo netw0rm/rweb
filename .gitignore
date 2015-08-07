@@ -11,6 +11,7 @@ capybara-*.html
 /spec/tmp
 /node_modules
 /app/assets/*/compiled/
+/lib/assets/
 
 **.orig
 rerun.txt
