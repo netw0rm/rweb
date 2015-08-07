@@ -32,7 +32,7 @@ config/secrets.yml
 .rvmrc
 
 # ignore default bower_components path bower.json files
-/vendor/assets
+/vendor
 /bower_components
 
 # Ignore pow environment settings
